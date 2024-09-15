@@ -11,7 +11,6 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
     - [Feedback (FB)](#feedback-fb)
     - [Feedback with varying time quantum (FBV)](#feedback-with-varying-time-quantum-fbv)
    
-
 ## Algorithms
 
 ### First Come First Serve (FCFS)
