@@ -69,8 +69,3 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
 
     
 
-## Contributors
-
-- [Yousef Kotp](https://github.com/yousefkotp)
-
-- [Adham Mohammed](https://github.com/adhammohamed1)
